@@ -1,0 +1,23 @@
+الواجب رقم 3
+السؤال :
+
+
+لماذا تستخدم اداة john the ripper؟ وما الفرق بين انواع التشفير one-way و two-way ؟
+
+
+الإجابة 
+
+أداة john thr ripper 
+من أشهر الأدوات التي تستخدم لفك كلمات المرور
+
+الفرق بين one-way & two-way:
+
+one-way لا يستخدم ال key في التشفير
+مثل hashing
+
+tow-way يستخدم الkey في التشفير وفك التشفير
+مثل symmetric يستخدم نفس الkey في التشفير وفك التشفير
+ِAsymmetric يتم استخدام key مختلفة في التشفير وفك التشفير
+private key 
+public key
+
